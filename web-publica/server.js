@@ -30,7 +30,7 @@ return;
 res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
 res.end(`
 <h1>Redes con Docker</h1>
-<p>Servicio público funcionando</p>
+<p>Servicio público funcionando - Version 2.0</p>
 <p>Versión ${VERSION}</p>
 <p><a href="/health">Comprobar /health</a></p>
 <p><a href="/api">Consultar /api</a></p>
