@@ -29,7 +29,7 @@ return;
 
 res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
 res.end(`
-<h1>Redes con ñoquis</h1>
+<h1>Redes con ñoquis de papa con boloñesa</h1>
 <p>Servicio público funcionando</p>
 <p>Versión ${VERSION}</p>
 <p><a href="/health">Comprobar /health</a></p>
